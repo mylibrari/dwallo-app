@@ -6,7 +6,8 @@ This project implements a simple RESTful API using FastAPI, a modern web framewo
 ## Installation
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/geekmood/dwallo.git
+    git clone https://github.com/mylibrari/dwallo-app.git
+    cd dwallo-app
     ```
 
 2. **Install the required dependencies:**
